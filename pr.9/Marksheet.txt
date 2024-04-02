@@ -1,0 +1,35 @@
+jdfjdfk (1)
+Chemistry => 76
+Mathematics => 75
+Physics => 75
+Total => 226/300
+Percent => 75.33%
+
+FFADSFD (2)
+Chemistry => 87
+Mathematics => 87
+Physics => 76
+Total => 250/300
+Percent => 83.33%
+
+DFASDFAF (3)
+Chemistry => 87
+Mathematics => 76
+Physics => 65
+Total => 228/300
+Percent => 76.00%
+
+FFADFADF (4)
+Chemistry => 98
+Mathematics => 87
+Physics => 76
+Total => 261/300
+Percent => 87.00%
+
+FGGAFASDF (5)
+Chemistry => 98
+Mathematics => 87
+Physics => 76
+Total => 261/300
+Percent => 87.00%
+
